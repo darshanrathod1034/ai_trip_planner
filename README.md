@@ -55,7 +55,7 @@ Our AI-powered platform:
 - **Intelligent Place Selection**: Fetches top-rated attractions (rating ≥ 3.5)
 - **Route Optimization**: Uses Nearest Neighbor algorithm (TSP approximation)
 - **Daily Clustering**: Groups 2-4 nearby places per day (max distance ≤ 20km)
-- **Multi-day Planning**: Routes end where the next day begins
+- **Multi-day Planning**: Routes end where the next day  begins.
 
 ### 🗺️ Interactive Map Integration
 - **Google Maps Integration**: Real-time map visualization
